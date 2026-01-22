@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Smart Personalized Trip Planning Using Gen-AI (Final-year project)<br><br>Strengthening DSA, DBMS, OS, and Java for placement interviews<br><br>👯 AI / Gen-AI based web applications<br><br>Student-level full-stack projects<br><br>Open-source projects related to travel tech or automation<br>🤝 System design basics for freshers<br><br>Improving real-world project depth for interviews<br><br>Mock interviews and resume optimization<br>🌱 Java (core + interview focus)<br><br>Operating Systems & DBMS (interview-oriented)<br><br>APIs, Docker basics, and Gen-AI integration<br>💬 DSA & interview questions<br><br>DBMS, OS, Java fundamentals<br><br>Explaining projects clearly in interviews<br><br>College placement preparation (TCS-style)<br>⚡I prepare projects line-by-line so I can explain them confidently in interviews 😄
+I' am a FullStack Developer
+You can visit my portfolio here:-https://personal-portfolio-tan-ten.vercel.app/
 
 
 ## 🌐 Socials:
