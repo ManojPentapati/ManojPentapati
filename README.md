@@ -4,7 +4,12 @@ You can visit my portfolio here:-https://personal-portfolio-tan-ten.vercel.app/
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-pentapati-2b8b18302) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bunny__19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srimanoj.pentapati@gmail.com) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-pentapati-2b8b18302)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bunny__19)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srimanoj.pentapati@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/221FA23057/)
+
 
 # 💻 Tech Stack:
 <!-- Core CS & Programming -->
