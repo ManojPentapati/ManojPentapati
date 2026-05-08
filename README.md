@@ -1,13 +1,11 @@
 # 💫 About Me:
 I am a **Full Stack Developer** with a strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**.  
 I specialize in building **scalable, end-to-end web applications** using modern frontend and backend technologies.
-
 I am highly focused on:
 - Writing clean, maintainable code
 - Designing efficient APIs and databases
 - Strengthening core CS concepts for technical interviews
 - Building real-world, production-ready projects
-
 🔗 **Portfolio:** https://personal-portfolio-tan-ten.vercel.app/
 
 ---
@@ -21,7 +19,6 @@ I am highly focused on:
 ---
 
 # 💻 Tech Stack:
-
 ### 🧠 Core CS & Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,12 +46,10 @@ I am highly focused on:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManojPentapati&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ManojPentapati&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ManojPentapati&theme=dark&hide_border=false&show_icons=true&cache_seconds=86400)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=ManojPentapati&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ManojPentapati&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM -->
