@@ -6,7 +6,7 @@ I am highly focused on:
 - Designing efficient APIs and databases
 - Strengthening core CS concepts for technical interviews
 - Building real-world, production-ready projects
-🔗 **Portfolio:** https://personal-portfolio-tan-ten.vercel.app/
+🔗 **Portfolio:** https://manojpentapati.unaux.com/
 
 ---
 
