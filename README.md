@@ -1,16 +1,26 @@
-# 💫 About Me:
-I am a **Full Stack Developer** with a strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**.  
-I specialize in building **scalable, end-to-end web applications** using modern frontend and backend technologies.
-I am highly focused on:
-- Writing clean, maintainable code
-- Designing efficient APIs and databases
-- Strengthening core CS concepts for technical interviews
-- Building real-world, production-ready projects
+```markdown
+# 💫 About Me
+
+I am a **Full Stack Developer** passionate about building scalable, end-to-end web applications and AI-powered solutions. I have a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and modern software engineering practices.
+
+I enjoy developing production-ready applications using React, Express.js, Django, MongoDB, and MySQL while exploring **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Vector Databases**, and **LLM-powered applications**.
+
+### 💡 Interests
+- 💻 Full Stack Development
+- 🤖 Machine Learning
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🌐 REST API Design
+- 🗄️ Database Design & Optimization
+- 📚 Data Structures & Algorithms
+- ⚡ System Design
+- 🌟 Open Source
+
 🔗 **Portfolio:** https://manojpentapati.unaux.com/
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-pentapati-2b8b18302)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/221FA23057/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bunny__19)
@@ -18,38 +28,89 @@ I am highly focused on:
 
 ---
 
-# 💻 Tech Stack:
-### 🧠 Core CS & Programming
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%23007396.svg?style=for-the-badge&logo=leetcode&logoColor=white)
-![OOPS](https://img.shields.io/badge/OOPS-%236A1B9A.svg?style=for-the-badge&logo=java&logoColor=white)
+# 💻 Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+## 🧠 Core CS & Programming
 
-### 🛠 Backend & Databases
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0088CC?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManojPentapati&theme=dark&hide_border=false&show_icons=true&cache_seconds=86400)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=ManojPentapati&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
+## 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ManojPentapati&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠 Backend & Databases
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7B1FA2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+## ⚙️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ManojPentapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManojPentapati&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&layout=compact&theme=tokyonight&langs_count=8)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPentapati&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ManojPentapati&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📊 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=ManojPentapati&icon=5&color=6)
+```
