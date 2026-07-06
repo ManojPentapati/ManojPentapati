@@ -5,15 +5,6 @@ I am a **Full Stack Developer** passionate about building scalable, end-to-end w
 
 I enjoy developing production-ready applications using React, Express.js, Django, MongoDB, and MySQL while exploring **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Vector Databases**, and **LLM-powered applications**.
 
-### 💡 Interests
-- 💻 Full Stack Development
-- 🤖 Machine Learning
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🌐 REST API Design
-- 🗄️ Database Design & Optimization
-- 📚 Data Structures & Algorithms
-- ⚡ System Design
-- 🌟 Open Source
 
 🔗 **Portfolio:** https://manojpentapati.unaux.com/
 
@@ -90,26 +81,4 @@ I enjoy developing production-ready applications using React, Express.js, Django
 
 ## 📈 GitHub Activity Graph
 
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPentapati&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ManojPentapati&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ManojPentapati/ManojPentapati/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📊 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=ManojPentapati&icon=5&color=6)
+[![Manoj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPentapati&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
