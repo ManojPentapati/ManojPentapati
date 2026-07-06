@@ -1,4 +1,4 @@
-```markdown
+
 # 💫 About Me
 
 I am a **Full Stack Developer** passionate about building scalable, end-to-end web applications and AI-powered solutions. I have a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and modern software engineering practices.
@@ -113,4 +113,3 @@ I enjoy developing production-ready applications using React, Express.js, Django
 ## 📊 Profile Views
 
 ![](https://visitcount.itsvg.in/api?id=ManojPentapati&icon=5&color=6)
-```
