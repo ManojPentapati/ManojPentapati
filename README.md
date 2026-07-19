@@ -1,16 +1,14 @@
-
 # 💫 About Me
 
 I am a **Full Stack Developer** passionate about building scalable, end-to-end web applications and AI-powered solutions. I have a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and modern software engineering practices.
 
-I enjoy developing production-ready applications using React, Express.js, Django, MongoDB, and MySQL while exploring **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Vector Databases**, and **LLM-powered applications**.
-
+I enjoy developing production-ready applications using **React, Express.js, Django, MongoDB, and MySQL** while exploring **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **LangChain**, **Vector Databases**, and **LLM-powered applications**.
 
 🔗 **Portfolio:** https://manojpentapati.unaux.com/
 
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-pentapati-2b8b18302)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/221FA23057/)
@@ -25,7 +23,7 @@ I enjoy developing production-ready applications using React, Express.js, Django
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0088CC?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0088CC?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)
 
 ---
@@ -71,27 +69,45 @@ I enjoy developing production-ready applications using React, Express.js, Django
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ManojPentapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojPentapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManojPentapati&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPentapati&layout=compact&theme=tokyonight&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ManojPentapati&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Contribution Graph
 
 [![Manoj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPentapati&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
+
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-pentapati-2b8b18302)
-  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Bunny__19)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/221FA23057/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srimanoj.pentapati@gmail.com)
-  <br />
-  
-  ✨ *Looking for internships and entry-level Software Engineering / Full-Stack / AI roles! Feel free to reach out.*
+
+<a href="https://linkedin.com/in/manoj-pentapati-2b8b18302">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Bunny__19">
+<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/221FA23057/">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:srimanoj.pentapati@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+✨ **Looking for internships and entry-level Software Engineering, Full-Stack, and AI Engineer roles. Feel free to connect!**
+
 </div>
